@@ -1,0 +1,25 @@
+body{
+  font-family: Roboto, sans-serif;
+}
+#navbar{
+  background-color: blue;
+  color: black;
+}
+#park, #retrieve{
+  background-color:red;
+  color: black;
+}
+button{
+  border: none;
+  background-color: blue;
+  color: black;
+}
+#instructions, #map, #directions{
+  border-radius: 15px;
+  background-color: blue;
+}
+#gotit{
+  background-color: darkred;
+  color: white;
+  border-radius: 8px;
+}
