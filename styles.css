@@ -9,7 +9,7 @@ body{
 #park, #retrieve{
   border: 1px white solid;
 }
-#button{
+button{
   background-color: #2196f3;
   color: white;
 }
