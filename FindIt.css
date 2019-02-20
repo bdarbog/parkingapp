@@ -1,0 +1,14 @@
+
+body{
+  font-size: 20pt;
+}
+#navbar{
+  width: 100%
+  padding: 5px 0px;
+  font-size: 12px;
+  text-align: center;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 10;
+}

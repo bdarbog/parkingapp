@@ -5,6 +5,6 @@ var parkedLongitude;
 var storage;
 
 function init(){
-  document.addEventListener("deviceReady", onDeviceReady, flase);
+  document.addEventListener("deviceReady", onDeviceReady, false);
   storage = window.localStorage;
 }
